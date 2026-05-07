@@ -4,7 +4,7 @@ title: "The Selfish/Altruistic Threshold in the Red/Blue Button Problem under Un
 date: 2026-05-07
 ---
 
-*[Download PDF](/assets/papers/redblue_button_paper-final.pdf)*
+*[Download PDF](/assets/papers/redblue_button_paper-final2.pdf)*
 
 ## Abstract
 

@@ -1,0 +1,11 @@
+title: Matthew Sawoski
+description: Notes and papers on mathematics and physics
+url: "https://msawoski.github.io"
+permalink: /:year/:month/:day/:title/
+
+markdown: kramdown
+kramdown:
+  math_engine: null
+
+plugins:
+  - jekyll-feed
